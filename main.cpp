@@ -37,6 +37,7 @@ int main(int argc, char* argv[])
   {
 
         std::cout << "A better, new initial message" << std::endl;
+        //new note to practice chaning a file and committing changes
   }
   // END OF THE CUSTOM CODE SECTION
 #else
